@@ -1,16 +1,30 @@
 # aula01
 
-A new Flutter project.
+Um novo projeto Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para um aplicativo Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos para você começar, caso este seja o seu primeiro projeto Flutter:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📘 [Lab: Escreva seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)
+- 🍽️ [Cookbook: Exemplos úteis do Flutter](https://docs.flutter.dev/cookbook)
+- 📦 [pub.dev: Pacotes e plugins para Flutter](https://pub.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda sobre como começar com o desenvolvimento Flutter, consulte a [documentação online](https://docs.flutter.dev/), que oferece tutoriais, amostras, orientações sobre desenvolvimento móvel e uma referência completa da API.
+
+## Objetivo
+
+O objetivo desta aula é proporcionar aos alunos uma compreensão aprofundada sobre três tópicos fundamentais no desenvolvimento com Dart e Flutter:
+
+1. 🔒 **Privatização de membros em classes Dart**
+2. 📦 **Uso do widget Container**
+3. 🛠️ **Criação de widgets personalizados**
+
+## Links Úteis
+
+- 📖 [Documentação do Flutter](https://docs.flutter.dev/)
+- 📜 [API Reference do Flutter](https://api.flutter.dev/)
+- 🏗️ [Dart Programming Language](https://dart.dev/)
+- 📦 [pub.dev: Pacotes e plugins para Flutter](https://pub.dev/)

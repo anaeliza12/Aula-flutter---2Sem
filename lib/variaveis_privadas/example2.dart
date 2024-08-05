@@ -1,3 +1,4 @@
+import 'package:aula01/variaveis_privadas/example.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -15,8 +16,6 @@ class Example {
   }
 }
 
-  void main(List<String> args) {
-    final example = Example("Aula 01");
-    example._printName();
-  }
-
+void main(List<String> args) {
+  final execution = Execution();
+}

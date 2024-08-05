@@ -1,20 +1,9 @@
-import 'package:flutter/cupertino.dart';
+import 'example2.dart';
 
-class Example {
-  final String _question;
+class Execution {
+  Example example = Example("Aula 02");
 
-  Example(this._question);
-
-  _printQuestion() {
-    debugPrint(_question);
+  Execution() {
+    example.printName();
   }
-
-  printQuestion() {
-    _printQuestion();
-  }
-}
-
-void main(){
-  final example = Example('Olá mundo cruel!!!');
-  example._printQuestion();
 }
